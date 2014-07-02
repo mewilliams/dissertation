@@ -1,0 +1,5 @@
+Figures to make: chapter 2.
+
+- Q vs t: median Q for all years of record. plot 2010 to 2012 on top.
+
+- time series: 2010 - 2012, Hs, Q, Ocean tides. 
