@@ -13,14 +13,18 @@ A history of the Pescadero {estuary?} was compiled as the dissertation work of [
 
 
 B - Current problems (fish kills?)
-- cite WSJ article. 2 MS thesis from SJ State
+- cite WSJ article. 2 MS thesis from SJSU
 
 
 C - The scope of what I can say. (and maybe some disclaimers on what I can't). 
 
 
 --------------------------------------
-Our observations:
+* Needs site description: bathymetry, depth of mouth, bedrock there. 
+* MLLW to water level conversion. 
+
+Our observations: (not measuring sand)
+* measurement setup (lead weight, milk crates, line, subsurface buoys,...). [PICTURES]. Problems with early setup. Suggestions for anyone in the future making measurements there. (Comment on driftwood and car wheels). 
 
 Field measurements were taken in the Pescadero estuary during X field deployments. 
 
@@ -30,29 +34,35 @@ Field measurements were taken in the Pescadero estuary during X field deployment
 4 - August 2011 - June 5, 2012
 5 - October 2012 (but not really)
 
-Later deployments utilized more instruments and thus had better resolution in space.  The frequency of measurements was also increased in later deployments with the realization that infragravity forcing was present. 
+Later deployments utilized more instruments and thus had better resolution in space.  The frequency of measurements was also increased in later deployments with the realization that infragravity forcing was present. A meteorological station measuring wind speed and direction was installed in {September 2011} and remained in place until June 2012.
 -------------------------------------
 Conditions during these three years:
 
 The years 2010-2012 encompassed [? El ninho, la ninha, drought].
 
-* Tidal conditions and how they are measured.
-* Streamflow conditions and how they are measured.
+Tides: 
+The nearest ocean tide gauges to the Pescadero estuary are operated by the National Oceanic and Atmospheric Administration (NOAA) at Crissy Field in San Francisco, California (Station ####) as well as in Monterey Harbor [???] in Monterey, Califoria (Station ####). Water level in both locations are recorded every six minutes, and one minute tsunami-capable unverified data is also recorded at these stations. 
 
+Freshwater:
 Freshwater streamflow into the Pescadero estuary is estimated based on a United States Geological Survey (USGS) gauge located on Pescadero Creek [X km] upstream from the mouth of the estuary (USGS ########). This gauge records water height and calculates freshwater discharge every [X min]. The gauge is downstream of [X] % of the watershed, so to estimate freshwater flow into the estuary the gauged discharge measurement is multiplied by [X = 1.76, eu acho]. Unaccounted for freshwater diversions are thought to exist downstream of the gauge which likely reduce freshwater flow into the estuary, however we do not have a way to quantify these diversions and thus will report freshwater flow as if they do not exist.
 
 The Mediterranean climate of California [comes with] seasonal precipitation. [X] % of coastal California's [X cm] of annual precipitation falls between the months of [X and X], and freshwater flow in the Pescadero Creek follows this trend. [Insert Figure: Q vs. t for all t (median) and 2010- 2012 overlaid]. 
 
-Ocean wave conditions are obtained through the National Oceanic and Atmopheric Administration (NOAA) National Data Buoy Center (NDBC). NDBC buoy 46012 is located approximately 40 km WNW of the Pescadero estuary in 208.8? m of water. This buoy reports ocean significant wave height ever [X min]. [Note on deep water vs. coastal]. Maximum wave heights in the ocean from 2010 - 2012 were [X m], and minimum were [X m], while the range of ocean significant wave heights while our sensors were recording in the Pescadero estuary was [X m to X m]. 
+Ocean waves:
+Ocean wave conditions are obtained through NOAA National Data Buoy Center (NDBC). NDBC buoy 46012 is located approximately 40 km WNW of the Pescadero estuary in 208.8? m of water. This buoy reports ocean significant wave height ever [X min]. [Note on deep water vs. coastal]. Maximum wave heights in the ocean from 2010 - 2012 were [X m], and minimum were [X m], while the range of ocean significant wave heights while our sensors were recording in the Pescadero estuary was [X m to X m]. 
 
+Wind: 
+Given that wind measurements were not made until the last field deployment from September 2011 - June 2012, wind conditions in the estuary during other periods are approximated by ________. There is approximate aggrement in {Wind Speed? Direction}, as shown in [FIGURE]. 
+
+Tsunami:
 Furthermore, the 2011 Tohoku earthquake generated a Pacific Ocean-wide tsunami (also known as a teletsunami). A description of the Pescadero estuary's response to the forcing of the small amplitude tsunami that reached California is found in Chapter 5. 
 
 
 -------------------------------------
 
-With these observations, we have identified two main conditions for the estaury: open and closed.  The inlet continuously contracts and [gets bigger] with nearshore sand transport. Within the open state, tides in the estuary may be an attenuated version of the ocean tides [Figure], and this state we will consider to be fully open. An extensive description of relevant hydrodynamic and salt transport processes in the fully open state is found in Chapter 3. 
+With these observations, we have identified two main conditions for the estaury: open and closed.  The inlet continuously contracts and [gets bigger] with nearshore sand transport. Within the open state, tides in the estuary may be an attenuated version of the ocean tides [Figure], and this state we will consider to be fully open. An extensive description of relevant hydrodynamic and salt transport processes in the fully open state is found in Chapter 3 and 4. 
 
-Because the estuarine inlet is in a constantly unstable condition, an intermediate state between fully open and closed is also common in the Pescadero estuary.  In this state, the sandy inlet is constricted, probably due to accretion of sand at the bed of the inlet. Here, the estuarine water level rises and falls in response to ocean tides, but may only fill with the diurnal high high tide [Figure] or be severly attenuated [Figure]. We consider this condition to be a highly-constricted open state. 
+Because the estuarine inlet is in a constantly unstable condition, an intermediate state between fully open and closed is also common in the Pescadero estuary.  In this state, the sandy inlet is constricted, probably due to accretion of sand at the bed of the inlet. Here, the estuarine water level rises and falls in response to ocean tides, but may only fill with the diurnal high high tide [Figure] or be severly attenuated [Figure]. We consider this condition to be a highly-constricted open state. Realistically, the open state of the estuary is a continuum. Sand moves in and out of the inlet with tidal flow and waves. High freshwater discharge will scour the mouth. 
 
 The closed state of the estuary is characterized by tidal depth oscillations being shut off. This does not mean that the ocean tides cease to influence water level in the estuary but that the water is not outflowing through the channel. Variation in forcing within the closed state depends on length of closure, to be discussed in section {X}. 
 
@@ -61,3 +71,16 @@ Transitions between these two states are rapid.
 [A note on closure.] 
 
 And, the transition from the closed state to open state in the Pescadero estuary naturally occurs only when increased freshwater streamflow overtops the sand bar at the mouth. It has been suggested in other estuaries that storm waves overtopping the bar may breach the estuary from the ocean side [CITE], but the mouth of the Pescadero estuary is somewhat protected by the southern end cliff, and wave conditions observed during our years of study make this unlikely. Given a storm surge similar to that carried by Superstorm Sandy which created new inlets in Barnegat Bay [CITE], this could be possible, but these are very unlikely to occur in California's climate. 
+
+A description of estuarine dynamics during the closed and transitioning states follows in this chapter, with the description of dynamics in the open state to follow in the proceeding chapters. 
+
+-----------
+Section: "How the Pescadero lagoon closes?"
+A closed lagoon is defined based on no significant flow out of the estuary as the ocean tide recedes. Depth measurements are used to determine flow out. [FIGURE]
+
+
+
+Section: "Closed lagoon dynamics"
+
+
+
