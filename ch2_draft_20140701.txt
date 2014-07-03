@@ -14,6 +14,7 @@ A history of the Pescadero marsh was compiled as the M.A. dissertation work of [
 
 B - Current problems (fish kills?)
 - cite WSJ article. 2 MS thesis from SJSU
+In its altered state, the Pescadero estuary has experienced fish kill events during the fall breach of the inlet for many of the past X years. This fish mortality has drawn studies (Sloan, 2006) as well as [anger] from local residents {cite WSJ}. To date a conclusive explanation for the triggers of fish mortality does not exist. 
 
 
 C - The scope of what I can say. (and maybe some disclaimers on what I can't). 
@@ -134,6 +135,11 @@ Hypothesize on mixing of intruding salt. Some parameterization?
 
 TEMPERATURE. (Important to fish).
 Stratification in the Pescadero estuary is always dependent on salt. [Because equation of state]. Temperature in the estuary in the closed state{HERE} depends on the salt stratification. Observations show that after the estuary has closed and a freshwater layer is present, water temperature in the mixed surface waters follow a diurnal trend of warming and cooling in accordance with solar heating. The salt-stratified lower layer of the estuary does not 'feel' this diurnal heating, and in fact is much warmer than the surface water. [Figure: temperature during closed state]. 
+
+-----------------------------------
+breach data: 
+salt response
+velocity...? (backward order?)
 
 
 BREACH:
