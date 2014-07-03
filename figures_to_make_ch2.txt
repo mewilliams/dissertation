@@ -1,3 +1,5 @@
+folder: ~/Dropbox/thesis/ch2_figures
+
 Figures to make: chapter 2.
 
 - Q vs t: median Q for all years of record. plot 2010 to 2012 on top.
@@ -7,6 +9,8 @@ Figures to make: chapter 2.
 - wind: our measurement vs. elsewhere?
 
 - closure: early (from tidal to filling) - depth record. 
+
+- depth: closure to breach.
 
 
 

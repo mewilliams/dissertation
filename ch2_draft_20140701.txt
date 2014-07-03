@@ -9,7 +9,7 @@ The Pescadero estuary is located at the confluence of Pescadero Creek and Butano
 
 
 A - Historical Context
-A history of the Pescadero {estuary?} was compiled as the dissertation work of [Italian sounding last name, 1977]. 
+A history of the Pescadero marsh was compiled as the M.A. dissertation work of [Viollis, 1979]. The marsh used to be bigger, has a history of being farmed, drained, duck hunting ground... biggest changes in the 20th century (as written in 1979) because of construction of levees and roads, logging, increased agriculture in the watershed as well as increased water use. 
 
 
 B - Current problems (fish kills?)
@@ -35,6 +35,13 @@ Field measurements were taken in the Pescadero estuary during X field deployment
 5 - October 2012 (but not really)
 
 Later deployments utilized more instruments and thus had better resolution in space.  The frequency of measurements was also increased in later deployments with the realization that infragravity forcing was present. A meteorological station measuring wind speed and direction was installed in {September 2011} and remained in place until June 2012.
+
+Summary of range of conditions in all data collected:
+Salinity : 0 to [highest]
+Temperature: cold to hot
+Windspeed and direction: usually two directions, probably because of geometry of marsh. Fast to slow. 
+Water depth? [Depends on how much I can get set to a datum]. 
+
 -------------------------------------
 Conditions during these three years:
 
@@ -60,7 +67,7 @@ Furthermore, the 2011 Tohoku earthquake generated a Pacific Ocean-wide tsunami (
 
 -------------------------------------
 
-With these observations, we have identified two main conditions for the estaury: open and closed.  The inlet continuously contracts and [gets bigger] with nearshore sand transport. Within the open state, tides in the estuary may be an attenuated version of the ocean tides [Figure], and this state we will consider to be fully open. An extensive description of relevant hydrodynamic and salt transport processes in the fully open state is found in Chapter 3 and 4. 
+With these observations, we have identified two main conditions for the estaury: open and closed.  The inlet continuously contracts and [gets bigger] with nearshore sand transport. Within the open state, tides in the estuary may be an attenuated version of the ocean tides [Figure], and this state we will consider to be fully open. An extensive description of relevant hydrodynamic and salt transport processes in the fully open state is found in Chapter 3 and 4. {Some words later on interannual variability to open state? How much freshwater it takes to freshen the estuary?}. 
 
 Because the estuarine inlet is in a constantly unstable condition, an intermediate state between fully open and closed is also common in the Pescadero estuary.  In this state, the sandy inlet is constricted, probably due to accretion of sand at the bed of the inlet. Here, the estuarine water level rises and falls in response to ocean tides, but may only fill with the diurnal high high tide [Figure] or be severly attenuated [Figure]. We consider this condition to be a highly-constricted open state. Realistically, the open state of the estuary is a continuum. Sand moves in and out of the inlet with tidal flow and waves. High freshwater discharge will scour the mouth. 
 
@@ -82,5 +89,64 @@ A closed lagoon is defined based on no significant flow out of the estuary as th
 
 Section: "Closed lagoon dynamics"
 
+[FIGURE Needed: water level: closure through breach]
+
+The mouth of the Pescadero estuary closes when ___{basically waves so long as freshwater is low}__. Details about lagoon closure are outside of the scope of this research, but relevant discussions on the conditions necessary for lagoon closure can be found in [Dane's thesis and his geomorphology paper]... The mouth of the Pescadero estuary is somewhat unique in its protection by a cliff to the south side [Image - mouth of Pescadero]. This cliff as well as the Highway 1 bridge piers and {ground/dune stabilization} prevent the migration of inlets seen in some other California intermittently closed estuaries [CITE - Dane's GRL paper?]. 
+
+Immediately after closure, the mouth of the Pescadero estuary is still low in elevation [IMAGE: 8/25ish/2011]. Throughout the closed period, we expect the height of the sand berm to be equal to or slightly above the height of the estuary water surface.
+
+Initial lagoon infilling occurs primarily to ocean water overtopping the low sand berm. Figure {FIGURE} shows the estuarine water level and ocean water level for [PERIOD OF TIME]. 
+
+There are at least two mechanisms by which ocean water enters the Pescadero estuary during the closed mouth state.
+(1) Waves overtopping berm directly into the estuary.
+(2) Waves overtopping the steep (bermed?) beach, running down the beach and into the estuary: creates river of sea water. 
+
+The second mechanism has only been observed once by the author (on DAY), and on the day it occurred the lagoon water level raised [X cm]. A day [a few days earlier] with a smaller wave climate only raised the estuary water level by [X cm]. 
+
+It is assumed that wave overwash carries salt water into the estuary and grows the sand berm. A study on the [X estuary] in [somewhere] Australia showed that ______ [Baldock et al., 2008]. 
 
 
+
+Due to the hypsometry of the marsh, intial wave overwash is most relevant to raising the water level in the closed lagoon. After a certain point, the surface of the lagoon begins to spill across the marsh and at this point filling becomes much more gradual. [Does the berm get high enough to prevent ocean water from getting in?]. Because nearshore forcing is primarily responsible for sand transport accreting the sand berm at the mouth of the estuary, it is highly unlikely that a condition exists where the mouth becomes high enough that ocean water cannot enter. [Sand transport by wind may also shape the mouth...]
+
+[some data to look into:]
+
+
+
+VELOCITY
+While the estuary is open to tidal influence, tides are the main driver of flow (in the absence of very large freshwater discharge). After the inlet closes, tidal forcing is cut off. Velocity measurements show that: {What do velocity measurements show?}
+
+STRATIFICATION:
+SALT
+* Evolution of stratification (saltier, freshwater surface layer). 
+* Wedderburn number. The Wedderburn number is a nondimensional number used to compare wind stress (?) to stratification and is an indicator of [what it would take to mix a stratified water column]. The number is a comparsion of [quick derivation here]. 
+
+
+* Maybe a potential density anomaly?
+
+
+* Mixing events:
+The high Wedderburn number means that the freshwater sitting on the surface of the estuary acts to protect salt-stratified lower water from mixing due to wind stress induced shear... Occasionally the wind blows (hard enough and/or long enough) to upwell the pycnocline. [Figures - wind, salt]. If this occurs, the wind stress can act directly on the pycnocline. [Descriptions of the figures here].  THis appears to be the primary mechanism of significant mixing during the closed state.  [February 13, 2012]. 
+
+
+
+Hypothesize on mixing of intruding salt. Some parameterization?
+
+TEMPERATURE. (Important to fish).
+Stratification in the Pescadero estuary is always dependent on salt. [Because equation of state]. Temperature in the estuary in the closed state{HERE} depends on the salt stratification. Observations show that after the estuary has closed and a freshwater layer is present, water temperature in the mixed surface waters follow a diurnal trend of warming and cooling in accordance with solar heating. The salt-stratified lower layer of the estuary does not 'feel' this diurnal heating, and in fact is much warmer than the surface water. [Figure: temperature during closed state]. 
+
+
+BREACH:
+Instruments recorded 5 (I think) opening events in the Pescadero estuary. The date of the breach, maximum Q in the [24?] hours preceding the breach, water level before the breach (maybe), ocean wave climate, and [tide something] are given in table [TABLE OF BREACH DATA THAT SEEMS RELEVANT TO ME]. 
+
+{Disclaimer: No measurements on top of marsh, few measurements in creeks... data can show what passes by sensors in lower estuary. When I say estuary, I mean estuary where measurements were made. High water level means salt can extend farther upstream than normal... didn't measure there}. 
+
+Based on measurements as the sand berm at the mouth breached, two types of events occurs: one where the entire (lower) estuary is freshened, and the second where mixing occurs in the fresh surface layer and the stratified lower layer, but salt water is retained in the depths of the estuary. [Could maybe do a HOW MUCH ENERGY TO FLUSH BOTTOM WATERS estimation]. 
+
+Here I present data of salt and velocity from as many breach events as I can present data for.
+
+1 - November 2010
+2 - November 2011
+3 - January 2012
+4 - Feburary 2012
+5?
