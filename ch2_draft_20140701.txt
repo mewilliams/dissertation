@@ -27,6 +27,10 @@ C - The scope of what I can say. (and maybe some disclaimers on what I can't).
 Our observations: (not measuring sand)
 * measurement setup (lead weight, milk crates, line, subsurface buoys,...). [PICTURES]. Problems with early setup. Suggestions for anyone in the future making measurements there. (Comment on driftwood and car wheels). 
 
+Depth measurements were made using the pressure transducer on CTDs attached to milk crates... The RBR pressure values were then adjusted to changing atmospheric pressure using air pressure measurements from the Half Moon Bay airport (KHAF). An approximate density of \rho = 1021 kg m^{-3} is used with the hydrostatic pressure equation {p = \rho g h}, slightly overestimating the depth when the estuary is fresh and density is lower than this value. Error in the pressure measurement using this assumption may be up to 2.5%. Further error is introduced comparing pressure measurements in a quiescent water column to a quickly moving flow. Stagnation pressure {p} is actually {p = \rho g h + \rho v^2 /2} (cite general fluid mechanics textbook). Under quiescent flow, pressure values measured are hydrostatic pressure. Under small velocities, error in this assumption is small. If flow reaches 1 m s^{-1} in a 1 m water column, the pressure reading will increase by 5% therefore depth calculated from these measurements not accounting for dynamic pressure will be slightly overestimated.
+
+We observe error in comparison of recorded water level (according to the staff gauge on the highway 1 bridge) while the estuary is draining in February and March 2012 and expect this error to be due to dynamic pressure readings. Thus, to set the water level in the estuary to a NAVD88 or MLLW datum, we use measurements taken during the closed water state and assume quiescent flow.  Further error is introduced as moorings were weighted to the ground but not fastened in place and some movement of the bed or mooring may have occurred. 
+
 Field measurements were taken in the Pescadero estuary during X field deployments. 
 
 1 - March - May 2010
