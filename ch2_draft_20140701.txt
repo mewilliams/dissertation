@@ -43,6 +43,15 @@ Temperature: cold to hot
 Windspeed and direction: usually two directions, probably because of geometry of marsh. Fast to slow. 
 Water depth? [Depends on how much I can get set to a datum]. 
 
+
+%% Wind measurements paragraph:
+
+Wind measurements were made using a [Campbell Scientific Met Station thingy] during the Fall 2011 - Spring 2012 field deployment. The wind vane was mounted approximately 3 m above the water level in the marsh adjacent to the estuary (See location on a figure).  Measurements show that wind direction through the marsh is almost entirely bi-directional (Figures winddir vs. time and wind rose). Wind direction of [360-ish degrees] is wind blowing from the ocean and from the other direction [180ish degrees] is land-sourced wind (is that called land breeze?). This constrained directionality is attributed to topography of the marsh.  Landward wind from the ocean is constrained by high topography on the South end of the estuary and marsh. On the northern end of the estuary inlet, sand dunes and constraint by the [stuff ] supporting the Highway 1 bridge further constains flow, essentially funnelling wind flow through a tunnel.  In the opposite direction, we hypothesize that the high topography in the south constrains flow, and since the marsh is [sorta] located in a valley, [flow is two-directional]. 
+
+Windspeeds from the ocean are higher than those from the land (Figure wind rose, wind vs. time). 
+
+Wind stress values based on wind speed measurements are calculated by....:  (Mary - friction velocity using Yelland and Taylor values for windspeed based drag coefficients). 
+
 -------------------------------------
 Conditions during these three years:
 
