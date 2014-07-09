@@ -2,4 +2,18 @@
 
 An observed example of wind setup and mixing occurred just prior to the sand bar breach on November 24, 2010. In situ velocity and salinity measurements combined with wind measurements at Half Moon Bay airport are used to understand this event:
 
-On November 23, wind forcing was seaward, small surface velocities in the Pescadero estuary were consistent with this forcing, and the water column was vertically stratified. 
+On November 23, wind forcing was seaward, small surface velocities in the Pescadero estuary were consistent with this forcing, and the water column was vertically stratified. Three layer flow apparent in this state may be due to the bathymetry of the estuary where the lower end of the estuary is very shallow. Wind shear may drive surface flow downstream, and the lower water column will respond by flowing upstream. At the sensors, [sentence on trapped lower water]. 
+
+From this point, the wind direction slowly shifted to become landward, and on November 23 at (X pm) GMT, the wind picked up to 10 m s^{-1}. The water column responded immediatedly to this increased wind shear with surface flow in line with the wind and the deeper water column compensating with flow in the other direction. Three-layer flow may not be seen because the upper estuary is deeper and the end of the estuary [has a sharp wall instead of a shallow lagoon thing]. Salinity measurements suggest that the strong wind forcing caused slight upwelling of saltier water at the DS mooring, and significant downwelling of fresher water at US as the deeper sensor there went from measuring [15-20] PSU water to [5] PSU water in [X] hours. 
+
+At [XX:XX] on November 24, the wind falls down to 5 m s^{-1} and the water column relaxes, as evidence by flow reversal. The surface mixed layer at the ADCP is shallower as seen by comparing the depth of highest shear at the setup event several hours earlier to the relaxation event, as well as by looking at the salinity sensors. As the relaxation occurs, the [surface mixed layer becomes thicker], but mid-column sensors end up fresher than prior to the mixing event. 
+
+It is upon this slightly more well-mixed background that the lagoon mouth breach occurs, and it is difficult to determine an exact moment of estuarine breaching...
+
+***
+Three (?) things drive mixing in this state. The first: direct input of wind shear at the surface creating shear in the water column.  The second is shear by interfacial drag mid-column. And a third process may be movement of the lower water column against the bed creating [... more shear]. 
+
+These effects may be parameterized in the following way: 
+
+
+***
